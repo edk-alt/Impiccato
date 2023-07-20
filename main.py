@@ -10,7 +10,7 @@
 
 #WORDLE
 
-#PORCODIIIIO
+
 import random
 
 def scegli_parola():
